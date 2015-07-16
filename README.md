@@ -1,5 +1,10 @@
 #Super Mario World Review
 
+This review is currently based on the Super Mario world which actually my very own first video game that leads me to a different platform and version. Somehow, I manage to find the recent reviews and wanted to share it with you all. But, why do I end in this category?
+
+Well, I’m playing Super Mario world when my husband asks me a favor where to buy an [ecigarettes](https://github.com/swannodette/om) for his new habit. I have intention to do that, but well, it helps since I got here and found the game’s review. 
+Read the details below.
+
 This is a rather detailed review of Super Mario World for the Super Nintendo. The review features 53 videos, interactive components, and lots of information on the game. It was an experiment and a way to get some more ClojureScript and [Om](https://github.com/swannodette/om) under my belt.
 
 ##cropping-app
